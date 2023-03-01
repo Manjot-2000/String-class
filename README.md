@@ -1,2 +1,2 @@
 # Projects
-A simple implementation #include<string> in C++;
+A simple implementation string class in C++;
