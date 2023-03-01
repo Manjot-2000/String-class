@@ -27,7 +27,7 @@ class My_String
 
     //Concatenation and astrix
     My_String operator+(const My_String&rhs) const;   
-    My_String operator*(int n) const;
+    My_String operator*(int n) const;             // repeat a string n number of times
 
     //Compound operators
     My_String & operator+=(const My_String &rhs);
