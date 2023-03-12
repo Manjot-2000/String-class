@@ -1,2 +1,2 @@
 # Projects
-A simple implementation string class in C++;
+An implementation string class in C++;
