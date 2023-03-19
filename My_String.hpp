@@ -38,4 +38,4 @@ class My_String
     My_String operator++(int);
 };
 
-#endif
+#endif                        // _MY_STRING_H_
