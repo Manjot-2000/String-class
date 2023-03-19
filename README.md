@@ -8,3 +8,5 @@ Supports :-
 5) Compound assignment supported
 6) Uppercase(prefix +) and Lowercase(prefix -) supported
 7) Memory management taken care of.
+8) Move semantics supported
+9) Copy semantics supported
